@@ -1,4 +1,5 @@
 #!/bin/bash
+# Don't forget to chmod +x the file
 echo "Enter the IP and/or range for initial scan: "
 read ips
 echo "-----------------------"
